@@ -10,13 +10,6 @@ O dashboard apresenta:
 - 🔧 **Quantidade de vendas por categoria**  
 - 📈 **Evolução das vendas ao longo do tempo**  
 
-## 🔹 Dashboard  
-### Visão Geral  
-![Dashboard Preview](https://raw.githubusercontent.com/CrisSantosDB/Primeiro_Dashboard_Power-BI/main/Dash.png?raw=true)
-
-### Visão Analítica  
-![Dashboard Analítico](https://raw.githubusercontent.com/CrisSantosDB/Primeiro_Dashboard_Power-BI/main/analitico.png?raw=true)  
-
 ## 🚀 Tecnologias Utilizadas  
 - Power BI  
 - Análise de Dados  
